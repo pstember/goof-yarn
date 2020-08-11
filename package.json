@@ -10,7 +10,7 @@
     "@oclif/command": "^1",
     "@oclif/config": "^1",
     "@oclif/plugin-help": "^3",
-    "tinymce": "4.2.2",
+    "tinymce": "4.9.11",
     "tslib": "^1"
   },
   "devDependencies": {
