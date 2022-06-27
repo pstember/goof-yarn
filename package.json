@@ -9,8 +9,8 @@
   "dependencies": {
     "@oclif/command": "^1",
     "@oclif/config": "^1",
-    "@oclif/plugin-help": "^3",
-    "tinymce": "4.2.2",
+    "@oclif/plugin-help": "^3.2.10",
+    "tinymce": "4.9.11",
     "tslib": "^1"
   },
   "devDependencies": {
