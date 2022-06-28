@@ -11,7 +11,7 @@
     "@oclif/config": "^1",
     "@oclif/plugin-help": "^3",
     "tinymce": "4.2.2",
-    "tslib": "^1"
+    "tslib": "^1.14.1"
   },
   "devDependencies": {
     "@oclif/dev-cli": "^1",
