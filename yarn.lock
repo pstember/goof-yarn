@@ -2560,10 +2560,10 @@ through@^2.3.6:
   resolved "https://registry.yarnpkg.com/through/-/through-2.3.8.tgz#0dd4c9ffaabc357960b1b724115d7e0e86a2e1f5"
   integrity sha1-DdTJ/6q8NXlgsbckEV1+Doai4fU=
 
-tinymce@4.2.2:
-  version "4.2.2"
-  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-4.2.2.tgz#1837c4c59c04e1bbd2468e523d5c4cab2eca216d"
-  integrity sha1-GDfExZwE4bvSRo5SPVxMqy7KIW0=
+tinymce@5.10.8:
+  version "5.10.8"
+  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-5.10.8.tgz#c85758fa3cca2cbb4b14dd037a0b315b6462c50e"
+  integrity sha512-iyoo3VGMAJhLMDdblAefKvYgBRk9kQi58GTwAmoieqsyggGsKZWlQl/YY6nTILFHUCA1FhYu0HdmM5YYjs17UQ==
 
 tmp@^0.0.33:
   version "0.0.33"
